@@ -1,4 +1,4 @@
-![Apache_Spark_logo svg](https://user-images.githubusercontent.com/43387913/71177498-3abde000-227d-11ea-8ea5-9ebecbb7aff6.png)
+![69706987-e30ed780-1109-11ea-87e6-afc43490b7ba](https://user-images.githubusercontent.com/43387913/71178167-a3598c80-227e-11ea-973a-a3f20f172312.png)
 
 ### Apache Spark:
 * 📗 [Colab](https://github.com/Alex110117/data_analysis/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Big%20Data%20and%20Python/4.%20PySpark/PySpark_pr.ipynb) _(Spark PySpark Install)_
