@@ -1,5 +1,7 @@
 ![69706987-e30ed780-1109-11ea-87e6-afc43490b7ba](https://user-images.githubusercontent.com/43387913/71178167-a3598c80-227e-11ea-973a-a3f20f172312.png)
 
+>[COMMUNITY-LED DEVELOPMENT "THE APACHE WAY"](https://www.apache.org/dyn/closer.lua/spark/spark-2.4.5/spark-2.4.5-bin-hadoop2.7.tgz)
+
 * 📗 [Colab](https://github.com/Alex110117/spark/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Big%20Data%20and%20Python/4.%20PySpark/PySpark_pr.ipynb) _(Install)_
 * 📗 [SparkSession](https://github.com/Alex110117/spark/blob/master/Lectures%20notebooks/(Lectures%20notebooks)%20netology%20Big%20Data%20and%20Python/4.%20PySpark/spark-regression.ipynb) _(Preprocessing, LinearRegression)_
 * 📙 [PySpark](https://github.com/Alex110117/spark/blob/master/Homework%20notebooks/(HW%20notebooks)%20netology%20Big%20Data%20and%20Python/4.%20pySpark/Spark_Python.ipynb) _(toPandas, scatter_matrix, ols)_
